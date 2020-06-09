@@ -1,0 +1,27 @@
+E:\Projects\C#\YT\015\MainApplication\MainApplication\bin\Debug\MainApplication.exe.config
+E:\Projects\C#\YT\015\MainApplication\MainApplication\bin\Debug\MainApplication.exe
+E:\Projects\C#\YT\015\MainApplication\MainApplication\bin\Debug\MainApplication.pdb
+E:\Projects\C#\YT\015\MainApplication\MainApplication\obj\Debug\MainApplication.csprojResolveAssemblyReference.cache
+E:\Projects\C#\YT\015\MainApplication\MainApplication\obj\Debug\MainApplication.MainForm.resources
+E:\Projects\C#\YT\015\MainApplication\MainApplication\obj\Debug\MainApplication.Properties.Resources.resources
+E:\Projects\C#\YT\015\MainApplication\MainApplication\obj\Debug\MainApplication.csproj.GenerateResource.Cache
+E:\Projects\C#\YT\015\MainApplication\MainApplication\obj\Debug\MainApplication.exe
+E:\Projects\C#\YT\015\MainApplication\MainApplication\obj\Debug\MainApplication.pdb
+E:\Projects\C#\YT\016\MainApplication\MainApplication\bin\Debug\MainApplication.exe.config
+E:\Projects\C#\YT\016\MainApplication\MainApplication\obj\Debug\MainApplication.exe
+E:\Projects\C#\YT\016\MainApplication\MainApplication\obj\Debug\MainApplication.pdb
+E:\Projects\C#\YT\016\MainApplication\MainApplication\bin\Debug\MainApplication.exe
+E:\Projects\C#\YT\016\MainApplication\MainApplication\bin\Debug\MainApplication.pdb
+E:\Projects\C#\YT\016\MainApplication\MainApplication\obj\Debug\MainApplication.csprojResolveAssemblyReference.cache
+E:\Projects\C#\YT\016\MainApplication\MainApplication\obj\Debug\MainApplication.MainForm.resources
+E:\Projects\C#\YT\016\MainApplication\MainApplication\obj\Debug\MainApplication.Properties.Resources.resources
+E:\Projects\C#\YT\016\MainApplication\MainApplication\obj\Debug\MainApplication.csproj.GenerateResource.Cache
+D:\Projects\C#\YT\SolveEverything.exe\016 (redo) - BackgroundWorker with Updating of UI Controls\MainApplication\MainApplication\bin\Debug\MainApplication.exe.config
+D:\Projects\C#\YT\SolveEverything.exe\016 (redo) - BackgroundWorker with Updating of UI Controls\MainApplication\MainApplication\bin\Debug\MainApplication.exe
+D:\Projects\C#\YT\SolveEverything.exe\016 (redo) - BackgroundWorker with Updating of UI Controls\MainApplication\MainApplication\bin\Debug\MainApplication.pdb
+D:\Projects\C#\YT\SolveEverything.exe\016 (redo) - BackgroundWorker with Updating of UI Controls\MainApplication\MainApplication\obj\Debug\MainApplication.MainForm.resources
+D:\Projects\C#\YT\SolveEverything.exe\016 (redo) - BackgroundWorker with Updating of UI Controls\MainApplication\MainApplication\obj\Debug\MainApplication.Properties.Resources.resources
+D:\Projects\C#\YT\SolveEverything.exe\016 (redo) - BackgroundWorker with Updating of UI Controls\MainApplication\MainApplication\obj\Debug\MainApplication.csproj.GenerateResource.cache
+D:\Projects\C#\YT\SolveEverything.exe\016 (redo) - BackgroundWorker with Updating of UI Controls\MainApplication\MainApplication\obj\Debug\MainApplication.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YT\SolveEverything.exe\016 (redo) - BackgroundWorker with Updating of UI Controls\MainApplication\MainApplication\obj\Debug\MainApplication.exe
+D:\Projects\C#\YT\SolveEverything.exe\016 (redo) - BackgroundWorker with Updating of UI Controls\MainApplication\MainApplication\obj\Debug\MainApplication.pdb
